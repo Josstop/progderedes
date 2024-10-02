@@ -12,7 +12,7 @@ number = 1
 
 for number in range (1, 6):    # Escribe un bucle for que cuente hasta cinco.
     print ( number,"Mississipi" )
-    time.sleep(1)
-    number = number + 1
+    time.sleep(1) #cuenta el tiempo entre cada mensaje
+    number = number + 1 # a la variable number sse le suma 1
 
 print ("Listos o no aqui voy!")

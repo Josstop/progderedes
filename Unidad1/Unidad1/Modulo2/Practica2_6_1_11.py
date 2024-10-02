@@ -1,6 +1,6 @@
 '''
 Practica de laboratorio: Operadores 
-
+Autora: Jocelyn Gonzáles Ramírez
 '''
 
 hour = int(input("Hora de inicio (horas): "))

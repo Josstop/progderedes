@@ -26,7 +26,7 @@ while number != 0: # la condición es que si el numero es ditinto a cero se ejec
     if number == secret_number:
         
             print ("¡Bien hecho, muggle! Eres libre ahora")
-            break 
+            break  #Termina el bucle while
     else:
         print ("¡Ja, ja! ¡Estás atrapado en mi bucle!")
-        number = int (input("Introduce nuevamente el numero:"))
+        number = int (input("Introduce nuevamente el numero:")) #pide intentar nuevamente hasta dar con el numero 777
